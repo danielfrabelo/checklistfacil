@@ -1,5 +1,4 @@
-<h1 align="left"><b> Teste Prático - Vaga QA - Checklist Fácil </b></h1>
-<h2 align="left"> Candidato: Daniel Ferreira Rabelo </h2>
+<h1 align="left"><b> Desafio Checklist Fácil </b></h1>
 
 <h3 align="left"> Descrição do Projeto: </h3>
 
@@ -52,9 +51,6 @@ No CMD deverá aparecer um log da seguinte forma:
 
 * O teste foi desenvolvido apresentando duas formas de execução do selenium: 1º Via docker, onde não é apresentado o passo-a-passo em tela. 2º Via driver do firefox do selenium, onde o teste abre o navegador, acessa o site informado e preenche os campos do formulário. Foi apresentado desta forma, afim de demonstrar que possuo conhecimento em ambas as formas de execução.
 
-* Caso o log do CMD onde rodamos o Docker apresente uma mensagem parecida com:
-<code>[1621197363.155][SEVERE]: bind() failed: Cannot assign requested address (99)</code>
-Favor desconsiderar, pois o google chrome tentou executar o teste no enderçeo IPv6 e não conseguiu, então emitiu a mensagem. Porém, após tentar no IPv6 e não conseguir, o ChromeDriver executa o teste normalmente no IPv4.
 
 <h3 align="left"> Contato: </h3>
 
